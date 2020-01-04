@@ -14,7 +14,7 @@ int main()
 	totallinches = feet * 12 + inch;
 	cm = totallinches * 2.54;
 
-	printf("Cosserponding length is %g cm.\n", cm);
+	printf("Corresponding length is %g cm.\n", cm);
 
 	system("pause");
 	return 0;
