@@ -1,4 +1,4 @@
-/* file: factorial.c
+/* file: calendar.c
 -------------------------
 * This program is used to generate a calendar for a year
 * entered by the user.
